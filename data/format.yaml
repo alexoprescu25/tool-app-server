@@ -1,0 +1,1123 @@
+
+# Px List_fiber line_off net via Orange Romania Communications SA (ex TELEKOM ROMANIA)
+- Variants:
+  - MRC: 110
+    NRC: 300
+    Bandwidth: 2 Mbps
+    Code:
+      tag: TKL
+      contents: 5
+  - MRC: 140
+    NRC: 350
+    Bandwidth: 4 Mbps
+    Code:
+      tag: TKL
+      contents: 5
+  - MRC: 140
+    NRC: 350
+    Bandwidth: 5 Mbps
+    Code:
+      tag: TKL
+      contents: 5
+  - MRC: 145
+    NRC: 350
+    Bandwidth: 6 Mbps
+    Code:
+      tag: TKL
+      contents: 5
+  - MRC: 155
+    NRC: 350
+    Bandwidth: 8 Mbps
+    Code:
+      tag: TKL
+      contents: 5
+  - MRC: 160
+    NRC: 350
+    Bandwidth: 10 Mbps
+    Code:
+      tag: TKL
+      contents: 5
+  - MRC: 175
+    NRC: 350
+    Bandwidth: 20 Mbps
+    Code:
+      tag: TKL
+      contents: 5
+  - MRC: 175
+    NRC: 350
+    Bandwidth: 30 Mbps
+    Code:
+      tag: TKL
+      contents: 5
+  - MRC: 180
+    NRC: 350
+    Bandwidth: 40 Mbps
+    Code:
+      tag: TKL
+      contents: 5
+  - MRC: 200
+    NRC: 350
+    Bandwidth: 50 Mbps
+    Code:
+      tag: TKL
+      contents: 5
+  - MRC: 210
+    NRC: 350
+    Bandwidth: 100 Mbps
+    Code:
+      tag: TKL
+      contents: 5
+  - MRC: 220
+    NRC: 350
+    Bandwidth: 200 Mbps
+    Code:
+      tag: TKL
+      contents: 5
+  - MRC: 300
+    NRC: 350
+    Bandwidth: 300 Mbps
+    Code:
+      tag: TKL
+      contents: 5
+  - MRC: 330
+    NRC: 350
+    Bandwidth: 400 Mbps
+    Code:
+      tag: TKL
+      contents: 5
+  - MRC: 350
+    NRC: 400
+    Bandwidth: 500 Mbps
+    Code:
+      tag: TKL
+      contents: 5
+  - MRC: 450
+    NRC: 550
+    Bandwidth: 1000 Mbps
+    Code:
+      tag: TKL
+      contents: 5
+  Medium: Fiber
+  Code:
+    tag: TKL
+    contents: 5
+  ConnectionType: EPL
+  Provider: TELEKOM
+  # Estimated costs_ radio line off net_via Orange
+- Variants:
+  - MRC: 140
+    NRC: 350
+    Bandwidth: 2 Mbps
+    Code:
+      tag: OrangeL
+      contents: 5
+  - MRC: 140
+    NRC: 350
+    Bandwidth: 4 Mbps
+    Code:
+      tag: OrangeL
+      contents: 5
+  - MRC: 190
+    NRC: 350
+    Bandwidth: 6 Mbps
+    Code:
+      tag: OrangeL
+      contents: 5
+  - MRC: 190
+    NRC: 350
+    Bandwidth: 10 Mbps
+    Code:
+      tag: OrangeL
+      contents: 5
+  - MRC: 205
+    NRC: 350
+    Bandwidth: 20 Mbps
+    Code:
+      tag: OrangeL
+      contents: 5
+  - MRC: 205
+    NRC: 400
+    Bandwidth: 30 Mbps
+    Code:
+      tag: OrangeL
+      contents: 5
+  - MRC: 204
+    NRC: 400
+    Bandwidth: 40 Mbps
+    Code:
+      tag: OrangeL
+      contents: 5
+  - MRC: 255
+    NRC: 450
+    Bandwidth: 50 Mbps
+    Code:
+      tag: OrangeL
+      contents: 5
+  - MRC: 360
+    NRC: 450
+    Bandwidth: 100 Mbps
+    Code:
+      tag: OrangeL
+      contents: 5
+  - MRC: 520
+    NRC: 600
+    Bandwidth: 200 Mbps
+    Code:
+      tag: OrangeL
+      contents: 5
+  - MRC: 560
+    NRC: 600
+    Bandwidth: 300 Mbps
+    Code:
+      tag: OrangeL
+      contents: 5
+  - MRC: 650
+    NRC: 700
+    Bandwidth: 400 Mbps
+    Code:
+      tag: OrangeL
+      contents: 5
+  - MRC: 790
+    NRC: 750
+    Bandwidth: 500 Mbps
+    Code:
+      tag: OrangeL
+      contents: 5
+  Medium: Radio
+  Code:
+    tag: OrangeL
+    contents: 5
+  ConnectionType: EPL
+  Provider: Orange
+  # Px List_fiber line_off net via VODAFONE (UPC) Romania
+- Variants:
+  - MRC: 110
+    NRC: 250
+    Bandwidth: 10 Mbps
+    Code:
+      tag: UPCL
+      contents: 5
+  - MRC: 130
+    NRC: 250
+    Bandwidth: 20-40 Mbps
+    Code:
+      tag: UPCL
+      contents: 5
+  - MRC: 150
+    NRC: 250
+    Bandwidth: 60 Mbps
+    Code:
+      tag: UPCL
+      contents: 5
+  - MRC: 155
+    NRC: 250
+    Bandwidth: 100 Mbps
+    Code:
+      tag: UPCL
+      contents: 5
+  - MRC: 550
+    NRC: 450
+    Bandwidth: 1000 Mbps
+    Code:
+      tag: UPCL
+      contents: 5
+  Medium: FIBER
+  Code:
+    tag: UPCL
+    contents: 5
+  ConnectionType: EPL
+  Provider: Vodafone(UPC)
+# SHHET 2 Estimated off net costs_via VODAFONE (UPC) Romania
+- Variants:
+  - MRC: 30
+    NRC: 150
+    Bandwidth: 1 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  - MRC: 35
+    NRC: 150
+    Bandwidth: 2 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  - MRC: 45
+    NRC: 150
+    Bandwidth: 3-4 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  - MRC: 50
+    NRC: 150
+    Bandwidth: 4-5 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  - MRC: 60
+    NRC: 150
+    Bandwidth: 10 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  - MRC: 65
+    NRC: 150
+    Bandwidth: 20 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  - MRC: 70
+    NRC: 150
+    Bandwidth: 30 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  - MRC: 80
+    NRC: 250
+    Bandwidth: 40-50 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  - MRC: 95
+    NRC: 250
+    Bandwidth: 100 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  - MRC: 125
+    NRC: 250
+    Bandwidth: 200 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  - MRC: 145
+    NRC: 350
+    Bandwidth: 300 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  - MRC: 195
+    NRC: 350
+    Bandwidth: 400 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  - MRC: 285
+    NRC: 400
+    Bandwidth: 500 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  - MRC: 450
+    NRC: 500
+    Bandwidth: 1000 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  Medium: FIBER
+  Code:
+    tag: UPCH
+    contents: 5
+  ConnectionType: ETH
+  Provider: Vodafone(UPC)
+# Estimated off net costs_via RDS:
+- Variants:
+  - MRC: 22
+    NRC: 100
+    Bandwidth: 1 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC: 25
+    NRC: 100
+    Bandwidth: 2 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC: 30
+    NRC: 100
+    Bandwidth: 4 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC: 35
+    NRC: 100
+    Bandwidth: 5-6 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC: 40
+    NRC: 100
+    Bandwidth: 8 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC: 40
+    NRC: 100
+    Bandwidth: 10 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC: 45
+    NRC: 100
+    Bandwidth: 20 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC: 50
+    NRC: 100
+    Bandwidth: 30 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC: 55
+    NRC: 100
+    Bandwidth: 40 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC: 65
+    NRC: 100
+    Bandwidth: 50 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC: 90
+    NRC: 150
+    Bandwidth: 100 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC: 150
+    NRC: 100
+    Bandwidth: 150 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC: 200
+    NRC: 350
+    Bandwidth: 200 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC: 250
+    NRC: 350
+    Bandwidth: 300 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC: 300
+    NRC: 350
+    Bandwidth: 400 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC: 350
+    NRC: 350
+    Bandwidth: 500 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC: 400
+    NRC: 350
+    Bandwidth: 1000 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  Medium: Fiber
+  Code:
+    tag: FTTB
+    contents: 5
+  ConnectionType: ETH
+  Provider: RCS&RDS
+  # Estimated off net costs_via via Orange Romania Communications SA (ex TELEKOM ROMANIA)
+- Variants:
+  - MRC: 110
+    NRC: 300
+    Bandwidth: 2 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC: 125
+    NRC: 300
+    Bandwidth: 4 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC: 130
+    NRC: 300
+    Bandwidth: 5 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC: 135
+    NRC: 300
+    Bandwidth: 6 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC: 135
+    NRC: 300
+    Bandwidth: 8 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC: 145
+    NRC: 350
+    Bandwidth: 10 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC: 150
+    NRC: 350
+    Bandwidth: 20 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC: 155
+    NRC: 350
+    Bandwidth: 30 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC: 160
+    NRC: 350
+    Bandwidth: 40 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC: 175
+    NRC: 350
+    Bandwidth: 50 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC: 200
+    NRC: 350
+    Bandwidth: 100 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC: 250
+    NRC: 350
+    Bandwidth: 200 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC: 275
+    NRC: 350
+    Bandwidth: 300 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC: 370
+    NRC: 350
+    Bandwidth: 400 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC: 390
+    NRC: 350
+    Bandwidth: 500 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC: 400
+    NRC: 550
+    Bandwidth: 1000 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  Medium: Fiber
+  Code:
+    tag: FTTH
+    contents: 5
+  ConnectionType: ETH
+  Provider: Orange
+  # SHHET 3 
+  # Px List off net_via SNR:
+- Variants:
+  - MRC: 25
+    NRC: 150.0
+    Bandwidth: 1 Mbps
+    Code:
+      tag: SNRV
+  - MRC: 35
+    NRC: 150.0
+    Bandwidth: 2 Mbps
+    Code:
+      tag: SNRV
+  - MRC: 45
+    NRC: 150.0
+    Bandwidth: 3 Mbps
+    Code:
+      tag: SNRV
+  - MRC: 55
+    NRC: 150.0
+    Bandwidth: 4 Mbps
+    Code:
+      tag: SNRV
+  - MRC: 65
+    NRC: 150.0
+    Bandwidth: 5 Mbps
+    Code:
+      tag: SNRV
+  - MRC: 120
+    NRC: 150.0
+    Bandwidth: 10 Mbps
+    Code:
+      tag: SNRV
+  - MRC: 169
+    NRC: 150.0
+    Bandwidth: 20 Mbps
+    Code:
+      tag: SNRV
+  Medium: Radio
+  Code:
+    tag: SNRV
+  ConnectionType: ETH
+  Provider: SNR
+#Estimated off net costs_ via Orange
+- Variants:
+  - MRC: 105
+    NRC: 350
+    Bandwidth: 2 Mbps
+    Code:
+      tag: OrangeR
+  - MRC: 105
+    NRC: 350
+    Bandwidth: 4 Mbps
+    Code:
+      tag: OrangeR
+  - MRC: 105
+    NRC: 350
+    Bandwidth: 6 Mbps
+    Code:
+      tag: OrangeR
+  - MRC: 120
+    NRC: 350
+    Bandwidth: 10 Mbps
+    Code:
+      tag: OrangeR
+  - MRC: 145
+    NRC: 350
+    Bandwidth: 20 Mbps
+    Code:
+      tag: OrangeR
+  - MRC: 175
+    NRC: 350
+    Bandwidth: 30 Mbps
+    Code:
+      tag: OrangeR
+  - MRC: 175
+    NRC: 350
+    Bandwidth: 40 Mbps
+    Code:
+      tag: OrangeR
+  - MRC: 195
+    NRC: 450.0
+    Bandwidth: 50 Mbps
+    Code:
+      tag: OrangeR
+  - MRC: 330
+    NRC: 450.0
+    Bandwidth: 100 Mbps
+    Code:
+      tag: OrangeR
+  - MRC: 590
+    NRC: 600
+    Bandwidth: 200 Mbps
+    Code:
+      tag: OrangeR
+  - MRC: 600
+    NRC: 600
+    Bandwidth: 300 Mbps
+    Code:
+      tag: OrangeR
+  - MRC: 656
+    NRC: 700
+    Bandwidth: 400 Mbps
+    Code:
+      tag: OrangeR
+  - MRC: 750
+    NRC: 750
+    Bandwidth: 500 Mbps
+    Code:
+      tag: OrangeR
+  Medium: Radio
+  Code:
+    tag: OrangeR
+  ConnectionType: ETH
+  Provider: Orange
+#Estimated off net costs_ via Media Sat
+- Variants:
+  - MRC: 55
+    NRC: 200
+    Bandwidth: 4 Mbps
+    Code:
+      tag: VSAT
+  - MRC: 60
+    NRC: 200
+    Bandwidth: 10 Mbps
+    Code:
+      tag: VSAT
+  - MRC: 90
+    NRC: 300
+    Bandwidth: 20 Mbps
+    Code:
+      tag: VSAT
+  - MRC: 120
+    NRC: 450
+    Bandwidth: 50 Mbps
+    Code:
+      tag: VSAT
+  - MRC: 140
+    NRC: 650
+    Bandwidth: 100 Mbps
+    Code:
+      tag: VSAT
+  - MRC: 270
+    NRC: 750
+    Bandwidth: 200 Mbps
+    Code:
+      tag: VSAT
+  Medium: Radio
+  Code:
+    tag: VSAT
+  ConnectionType: IA
+  Provider: Media Sat
+#3G off net costs_ via Orange
+- Variants:
+  - MRC: 10.0
+    NRC: 0
+    Bandwidth: 10GB total traffic
+    Code:
+      tag: OrangeG
+  Medium: 4G
+  Code:
+    tag: OrangeG
+  ConnectionType: 4G SIM
+  Provider: Orange
+#SHEET 4
+#Synapser
+- Variants:
+  - MRC: 100.0
+    NRC: 250.0
+    Bandwidth: 1xFO
+    Code:
+      tag: SYN
+  - MRC: 100.0
+    NRC: 250.0
+    Bandwidth: 1xFO
+    Code:
+      tag: SYN
+  Medium: Fiber
+  Code:
+    tag: SYN
+  ConnectionType: Dark-fiber
+  Provider: Synapser
+#Intersat
+- Variants:
+  - MRC: 250.0
+    NRC: 450
+    Bandwidth: 1000 Mbps
+    Code:
+      tag: InterSat
+  - MRC: 130
+    NRC: 300.0
+    Bandwidth: 300 Mbps
+    Code:
+      tag: InterSat
+  - MRC: 120.0
+    NRC: 200.0
+    Bandwidth: 100 Mbps
+    Code:
+      tag: InterSat
+  - MRC: 90.0
+    NRC: 200.0
+    Bandwidth: 50 Mbps
+    Code:
+      tag: InterSat
+  - MRC: 65
+    NRC: 150.0
+    Bandwidth: 10 Mbps
+    Code:
+      tag: InterSat
+  - MRC: 45
+    NRC: 100.0
+    Bandwidth: 5 Mbps
+    Code:
+      tag: InterSat
+  - MRC: 35
+    NRC: 100.0
+    Bandwidth: 2 Mbps
+    Code:
+      tag: InterSat
+  - MRC: 30.0
+    NRC: 100.0
+    Bandwidth: 1 Mbps
+    Code:
+      tag: InterSat
+  Medium: Fiber
+  Code:
+    tag: InterSat
+  ConnectionType: ETH
+  Provider: InterSat
+# Orange Romania Communications SA (ex TKR)
+#Created tag: ORCDARK
+- Variants:
+  - MRC: 200
+    NRC: 350
+    Bandwidth: 2xFO
+    Code:
+      tag: ORCDARK
+  Medium: Fiber
+  Code:
+    tag: ORCDARK
+  ConnectionType: Dark-fiber
+  Provider: Orange
+# Orange Romania Communications SA (ex TKR)
+- Variants:
+  - MRC: 145
+    NRC: 300
+    Bandwidth: 2 Mbps
+    Code:
+      tag: TKH
+  - MRC: 170
+    NRC: 300
+    Bandwidth: 4 Mbps
+    Code:
+      tag: TKH
+  - MRC: 170
+    NRC: 300
+    Bandwidth: 5 Mbps
+    Code:
+      tag: TKH
+  - MRC: 200
+    NRC: 300
+    Bandwidth: 6 Mbps
+    Code:
+      tag: TKH
+  - MRC: 200
+    NRC: 300
+    Bandwidth: 8 Mbps
+    Code:
+      tag: TKH
+  - MRC: 210
+    NRC: 350
+    Bandwidth: 10 Mbps
+    Code:
+      tag: TKH
+  - MRC: 225
+    NRC: 350
+    Bandwidth: 20 Mbps
+    Code:
+      tag: TKH
+  - MRC: 235
+    NRC: 350
+    Bandwidth: 30 Mbps
+    Code:
+      tag: TKH
+  - MRC: 250
+    NRC: 350
+    Bandwidth: 40 Mbps
+    Code:
+      tag: TKH
+  - MRC: 275
+    NRC: 350
+    Bandwidth: 50 Mbps
+    Code:
+      tag: TKH
+  - MRC: 335
+    NRC: 350
+    Bandwidth: 100 Mbps
+    Code:
+      tag: TKH
+  Medium: Fiber
+  Code:
+    tag: TKH
+  ConnectionType: ETH
+  Provider: Orange
+#ORANGE
+- Variants:
+  - MRC: 170
+    NRC: 350
+    Bandwidth: 5 Mbps
+    Code:
+      tag: OrangeL
+  - MRC: 190
+    NRC: 350
+    Bandwidth: 10 Mbps
+    Code:
+      tag: OrangeL
+  - MRC: 250
+    NRC: 400
+    Bandwidth: 50 Mbps
+    Code:
+      tag: OrangeL
+  - MRC: 320
+    NRC: 450
+    Bandwidth: 100 Mbps
+    Code:
+      tag: OrangeL
+  - MRC: 870
+    NRC: 600
+    Bandwidth: 1000 Mbps
+    Code:
+      tag: OrangeL
+  - MRC: 320
+    NRC: 450
+    Bandwidth: 100 Mbps
+    Code:
+      tag: OrangeL
+  - MRC: 870
+    NRC: 600
+    Bandwidth: 1000 Mbps
+    Code:
+      tag: OrangeL
+  Medium: Fiber
+  Code:
+    tag: OrangeL
+  ConnectionType: EPL
+  Provider: Orange
+# SHHET 5 - LOCAL PROVIDERS
+#Estimated off net costs_via Interlink Banat:
+- Variants:
+  - MRC: 70.0
+    NRC: 250.0
+    Bandwidth: 100 Mbps
+    Code:
+      tag: ILNKH
+  - MRC: 60.0
+    NRC: 150.0
+    Bandwidth: 10 Mbps
+    Code:
+      tag: ILNKH
+  - MRC: 50.0
+    NRC: 100.0
+    Bandwidth: 5 Mbps
+    Code:
+      tag: ILNKH
+  - MRC: 45
+    NRC: 100.0
+    Bandwidth: 4 Mbps
+    Code:
+      tag: ILNKH
+  - MRC: 35
+    NRC: 100.0
+    Bandwidth: 2 Mbps
+    Code:
+      tag: ILNKH
+  - MRC: 30.0
+    NRC: 100.0
+    Bandwidth: 1 Mbps
+    Code:
+      tag: ILNKH
+  Medium: Fiber/Radio
+  Code:
+    tag: ILNKH
+  ConnectionType: ETH
+  Provider: Interlink Banat
+#Estimated off net costs_via MD Trust
+- Variants:
+  - MRC: 400
+    NRC: 450
+    Bandwidth: 1xFO
+    Code:
+      tag: MDT
+  Medium: Fiber
+  Code:
+    tag: MDT
+  ConnectionType: Dark-fiber
+  Provider: MD Trust
+#Estimated off net costs_via Quick Net (Euro Strada)
+#New Tag
+- Variants:
+  - MRC: 50
+    NRC: 150
+    Bandwidth: 10 Mbsp
+    Code:
+      tag: QNES
+  - MRC: 60
+    NRC: 150
+    Bandwidth: 20 Mbps
+    Code:
+      tag: QNES
+  - MRC: 65
+    NRC: 150
+    Bandwidth: 50 Mbps
+    Code:
+      tag: QNES
+  - MRC: 80
+    NRC: 200
+    Bandwidth: 100 Mbps
+    Code:
+      tag: QNES
+  - MRC: 165
+    NRC: 200
+    Bandwidth: 150 Mbps
+    Code:
+      tag: QNES
+  - MRC: 400
+    NRC: 650
+    Bandwidth: 500 Mbps
+    Code:
+      tag: QNES
+  - MRC: 480
+    NRC: 350
+    Bandwidth: 1000 Mbps
+    Code:
+      tag: QNES
+  Medium: Fiber
+  Code:
+    tag: QNES
+  ConnectionType: ETH
+  Provider: Quick Net (Euro Strada)
+#Internet Broker
+- Variants:
+  - MRC: 30
+    NRC: 100
+    Bandwidth: 1 Mbsp
+    Code:
+      tag: IB
+  - MRC: 35
+    NRC: 100
+    Bandwidth: 2 Mbsp
+    Code:
+      tag: IB
+  - MRC: 45
+    NRC: 100
+    Bandwidth: 4 Mbsp
+    Code:
+      tag: IB
+  - MRC: 50
+    NRC: 100
+    Bandwidth: 5 Mbsp
+    Code:
+      tag: IB
+  - MRC: 85
+    NRC: 150
+    Bandwidth: 10 Mbsp
+    Code:
+      tag: IB
+  - MRC: 95
+    NRC: 150
+    Bandwidth: 20 Mbsp
+    Code:
+      tag: IB
+  - MRC: 100
+    NRC: 150
+    Bandwidth: 30 Mbsp
+    Code:
+      tag: IB
+  - MRC: 115
+    NRC: 250
+    Bandwidth: 50 Mbsp
+    Code:
+      tag: IB
+  - MRC: 125
+    NRC: 250
+    Bandwidth: 100 Mbsp
+    Code:
+      tag: IB
+  - MRC: 140
+    NRC: 250
+    Bandwidth: 200 Mbsp
+    Code:
+      tag: IB
+  - MRC: 165
+    NRC: 300
+    Bandwidth: 300 Mbsp
+    Code:
+      tag: IB
+  - MRC: 180
+    NRC: 300
+    Bandwidth: 400 Mbsp
+    Code:
+      tag: IB
+  - MRC: 200
+    NRC: 350
+    Bandwidth:  500 Mbps
+    Code:
+      tag: IB
+  - MRC: 150
+    NRC: 250
+    Bandwidth: 1FO
+    Code:
+      tag: IB
+  Medium: Fiber
+  Code:
+    tag: IB
+  ConnectionType: ETH
+  Provider: Internet Broker
+#Estimated off net costs_via Internet Oltenia:
+- Variants:
+  - MRC: 25
+    NRC: 100
+    Bandwidth: 1 Mbps
+    Code:
+      tag: IOLTH
+  - MRC: 30
+    NRC: 100
+    Bandwidth: 2 Mbps
+    Code:
+      tag: IOLTH
+  - MRC: 40
+    NRC: 100
+    Bandwidth: 4 Mbps
+    Code:
+      tag: IOLTH
+  - MRC: 45
+    NRC: 100
+    Bandwidth: 5 Mbps
+    Code:
+      tag: IOLTH
+  - MRC: 65
+    NRC: 150
+    Bandwidth: 10 Mbps
+    Code:
+      tag: IOLTH
+  - MRC: 85
+    NRC: 150
+    Bandwidth: 20 Mbps
+    Code:
+      tag: IOLTH
+  - MRC: 95
+    NRC: 150
+    Bandwidth: 30 Mbps
+    Code:
+      tag: IOLTH
+  - MRC: 120
+    NRC: 250
+    Bandwidth: 50 Mbps
+    Code:
+      tag: IOLTH
+  - MRC: 125
+    NRC: 250
+    Bandwidth: 100 Mbps
+    Code:
+      tag: IOLTH
+  - MRC: 145
+    NRC: 250
+    Bandwidth: 200 Mbps
+    Code:
+      tag: IOLTH
+  - MRC: 155
+    NRC: 300
+    Bandwidth: 300 Mbps
+    Code:
+      tag: IOLTH
+  - MRC: 190
+    NRC: 300
+    Bandwidth: 400 Mbps
+    Code:
+      tag: IOLTH
+  - MRC: 220
+    NRC: 350
+    Bandwidth: 500 Mbps
+    Code:
+      tag: IOLTH
+  Medium: Fiber
+  Code:
+    tag: IOLTH
+  ConnectionType: ETH
+  Provider: Internet Oltenia

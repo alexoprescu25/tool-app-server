@@ -1,0 +1,2623 @@
+---
+- Variants:
+  - MRC:
+    - 110
+    - 100
+    - 90
+    NRC:
+    - 300
+    - 250
+    - 200
+    Bandwidth: 2 Mbps
+    Code:
+      tag: TKL
+      contents: 1
+  - MRC:
+    - 140
+    - 130
+    - 120
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 4 Mbps
+    Code:
+      tag: TKL
+      contents: 1
+  - MRC:
+    - 140
+    - 130
+    - 120
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 5 Mbps
+    Code:
+      tag: TKL
+      contents: 1
+  - MRC:
+    - 145
+    - 135
+    - 125
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 6 Mbps
+    Code:
+      tag: TKL
+      contents: 1
+  - MRC:
+    - 155
+    - 145
+    - 135
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 8 Mbps
+    Code:
+      tag: TKL
+      contents: 1
+  - MRC:
+    - 160
+    - 155
+    - 145
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 10 Mbps
+    Code:
+      tag: TKL
+      contents: 1
+  - MRC:
+    - 175
+    - 165
+    - 155
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 20 Mbps
+    Code:
+      tag: TKL
+      contents: 1
+  - MRC:
+    - 175
+    - 165
+    - 155
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 30 Mbps
+    Code:
+      tag: TKL
+      contents: 1
+  - MRC:
+    - 180
+    - 170
+    - 160
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 40 Mbps
+    Code:
+      tag: TKL
+      contents: 1
+  - MRC:
+    - 200
+    - 190
+    - 180
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 50 Mbps
+    Code:
+      tag: TKL
+      contents: 1
+  - MRC:
+    - 210
+    - 200
+    - 190
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 100 Mbps
+    Code:
+      tag: TKL
+      contents: 1
+  - MRC:
+    - 220
+    - 210
+    - 200
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 200 Mbps
+    Code:
+      tag: TKL
+      contents: 1
+  - MRC:
+    - 300
+    - 290
+    - 180
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 300 Mbps
+    Code:
+      tag: TKL
+      contents: 1
+  - MRC:
+    - 330
+    - 320
+    - 310
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 400 Mbps
+    Code:
+      tag: TKL
+      contents: 1
+  - MRC:
+    - 350
+    - 340
+    - 320
+    NRC:
+    - 400
+    - 350
+    - 300
+    Bandwidth: 500 Mbps
+    Code:
+      tag: TKL
+      contents: 1
+  - MRC:
+    - 450
+    - 440
+    - 420
+    NRC:
+    - 550
+    - 500
+    - 450
+    Bandwidth: 1000 Mbps
+    Code:
+      tag: TKL
+      contents: 1
+  Medium: Fiber
+  Code:
+    tag: TKL
+    contents: 1
+  ConnectionType: EPL
+  Provider: TELEKOM
+  id: 1
+- Variants:
+  - MRC:
+    - 140
+    - 120
+    - 110
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 2 Mbps
+    Code:
+      tag: OrangeL
+      contents: 5
+  - MRC:
+    - 140
+    - 120
+    - 110
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 4 Mbps
+    Code:
+      tag: OrangeL
+      contents: 5
+  - MRC:
+    - 190
+    - 150
+    - 130
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 6 Mbps
+    Code:
+      tag: OrangeL
+      contents: 5
+  - MRC:
+    - 190
+    - 150
+    - 130
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 10 Mbps
+    Code:
+      tag: OrangeL
+      contents: 5
+  - MRC:
+    - 205
+    - 180
+    - 175
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 20 Mbps
+    Code:
+      tag: OrangeL
+      contents: 5
+  - MRC:
+    - 205
+    - 190
+    - 180
+    NRC:
+    - 400
+    - 375
+    - 350
+    Bandwidth: 30 Mbps
+    Code:
+      tag: OrangeL
+      contents: 5
+  - MRC:
+    - 205
+    - 190
+    - 180
+    NRC:
+    - 400
+    - 375
+    - 350
+    Bandwidth: 40 Mbps
+    Code:
+      tag: OrangeL
+      contents: 5
+  - MRC:
+    - 255
+    - 215
+    - 195
+    NRC:
+    - 450
+    - 375
+    - 350
+    Bandwidth: 50 Mbps
+    Code:
+      tag: OrangeL
+      contents: 5
+  - MRC:
+    - 360
+    - 350
+    - 340
+    NRC:
+    - 450
+    - 400
+    - 350
+    Bandwidth: 100 Mbps
+    Code:
+      tag: OrangeL
+      contents: 5
+  - MRC:
+    - 520
+    - 460
+    - 410
+    NRC:
+    - 600
+    - 550
+    - 500
+    Bandwidth: 200 Mbps
+    Code:
+      tag: OrangeL
+      contents: 5
+  - MRC:
+    - 560
+    - 530
+    - 490
+    NRC:
+    - 600
+    - 550
+    - 500
+    Bandwidth: 300 Mbps
+    Code:
+      tag: OrangeL
+      contents: 5
+  - MRC:
+    - 650
+    - 455
+    - 395
+    NRC:
+    - 700
+    - 600
+    - 500
+    Bandwidth: 400 Mbps
+    Code:
+      tag: OrangeL
+      contents: 5
+  - MRC:
+    - 790
+    - 725
+    - 695
+    NRC:
+    - 750
+    - 675
+    - 625
+    Bandwidth: 500 Mbps
+    Code:
+      tag: OrangeL
+      contents: 5
+  Medium: Radio
+  Code:
+    tag: OrangeL
+    contents: 5
+  ConnectionType: EPL
+  Provider: Orange
+  id: 2
+- Variants:
+  - MRC:
+    - 110
+    - 95
+    - 80
+    NRC:
+    - 250
+    - 200
+    - 150
+    Bandwidth: 10 Mbps
+    Code:
+      tag: UPCL
+      contents: 5
+  - MRC:
+    - 130
+    - 120
+    - 105
+    NRC:
+    - 250
+    - 200
+    - 150
+    Bandwidth: 20-40 Mbps
+    Code:
+      tag: UPCL
+      contents: 5
+  - MRC:
+    - 150
+    - 140
+    - 125
+    NRC:
+    - 250
+    - 200
+    - 150
+    Bandwidth: 60 Mbps
+    Code:
+      tag: UPCL
+      contents: 5
+  - MRC:
+    - 155
+    - 145
+    - 130
+    NRC:
+    - 250
+    - 200
+    - 150
+    Bandwidth: 100 Mbps
+    Code:
+      tag: UPCL
+      contents: 5
+  - MRC:
+    - 550
+    - 530
+    - 500
+    NRC:
+    - 450
+    - 400
+    - 300
+    Bandwidth: 1000 Mbps
+    Code:
+      tag: UPCL
+      contents: 5
+  Medium: FIBER
+  Code:
+    tag: UPCL
+    contents: 5
+  ConnectionType: EPL
+  Provider: Vodafone(UPC)
+  id: 3
+- Variants:
+  - MRC:
+    - 30
+    - 30
+    - 25
+    NRC:
+    - 150
+    - 100
+    - 50
+    Bandwidth: 1 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  - MRC:
+    - 35
+    - 35
+    - 30
+    NRC:
+    - 150
+    - 100
+    - 50
+    Bandwidth: 2 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  - MRC:
+    - 45
+    - 45
+    - 40
+    NRC:
+    - 150
+    - 100
+    - 50
+    Bandwidth: 3-4 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  - MRC:
+    - 50
+    - 50
+    - 45
+    NRC:
+    - 150
+    - 100
+    - 50
+    Bandwidth: 4-5 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  - MRC:
+    - 60
+    - 55
+    - 50
+    NRC:
+    - 150
+    - 100
+    - 50
+    Bandwidth: 10 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  - MRC:
+    - 65
+    - 60
+    - 55
+    NRC:
+    - 150
+    - 100
+    - 50
+    Bandwidth: 20 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  - MRC:
+    - 70
+    - 65
+    - 60
+    NRC:
+    - 150
+    - 100
+    - 50
+    Bandwidth: 30 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  - MRC:
+    - 80
+    - 75
+    - 65
+    NRC: 250
+    Bandwidth: 40-50 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  - MRC:
+    - 95
+    - 90
+    - 85
+    NRC:
+    - 250
+    - 200
+    - 150
+    Bandwidth: 100 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  - MRC:
+    - 125
+    - 120
+    - 115
+    NRC:
+    - 250
+    - 200
+    - 150
+    Bandwidth: 200 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  - MRC:
+    - 145
+    - 130
+    - 125
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 300 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  - MRC:
+    - 195
+    - 185
+    - 175
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 400 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  - MRC:
+    - 285
+    - 275
+    - 265
+    NRC:
+    - 400
+    - 350
+    - 300
+    Bandwidth: 500 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  - MRC:
+    - 450
+    - 440
+    - 400
+    NRC:
+    - 500
+    - 450
+    - 400
+    Bandwidth: 1000 Mbps
+    Code:
+      tag: UPCH
+      contents: 5
+  Medium: FIBER
+  Code:
+    tag: UPCH
+    contents: 5
+  ConnectionType: ETH
+  Provider: Vodafone
+  id: 4
+  # A fost Vodafone(UPC)
+- Variants:
+  - MRC:
+    - 22
+    - 20
+    - 18
+    NRC:
+    - 100
+    - 100
+    - 100
+    Bandwidth: 1 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC:
+    - 25
+    - 22
+    - 20
+    NRC:
+    - 100
+    - 100
+    - 100
+    Bandwidth: 2 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC:
+    - 30
+    - 27
+    - 24
+    NRC:
+    - 100
+    - 100
+    - 100
+    Bandwidth: 4 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC:
+    - 35
+    - 30
+    - 26
+    NRC:
+    - 100
+    - 100
+    - 100
+    Bandwidth: 5-6 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC:
+    - 40
+    - 35
+    - 25
+    NRC:
+    - 100
+    - 100
+    - 100
+    Bandwidth: 8 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC:
+    - 40
+    - 35
+    - 25
+    NRC:
+    - 100
+    - 100
+    - 100
+    Bandwidth: 10 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC:
+    - 45
+    - 40
+    - 35
+    NRC:
+    - 100
+    - 100
+    - 100
+    Bandwidth: 20 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC:
+    - 50
+    - 45
+    - 40
+    NRC:
+    - 100
+    - 100
+    - 100
+    Bandwidth: 30 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC:
+    - 55
+    - 50
+    - 45
+    NRC:
+    - 100
+    - 100
+    - 100
+    Bandwidth: 40 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC:
+    - 65
+    - 55
+    - 50
+    NRC:
+    - 100
+    - 100
+    - 100
+    Bandwidth: 50 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC:
+    - 90
+    - 80
+    - 70
+    NRC:
+    - 150
+    - 120
+    Bandwidth: 100 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC:
+    - 150
+    - 120
+    - 100
+    NRC:
+    - 100
+    - 100
+    - 100
+    Bandwidth: 150 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC:
+    - 200
+    - 180
+    - 160
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 200 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC:
+    - 250
+    - 200
+    - 180
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 300 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC:
+    - 300
+    - 250
+    - 220
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 400 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC:
+    - 350
+    - 300
+    - 250
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 500 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  - MRC:
+    - 400
+    - 350
+    - 300
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 1000 Mbps
+    Code:
+      tag: FTTB
+      contents: 5
+  Medium: Fiber
+  Code:
+    tag: FTTB
+    contents: 5
+  ConnectionType: ETH
+  Provider: RCS&RDS
+  id: 5
+- Variants:
+  - MRC:
+    - 110
+    - 105
+    - 95
+    NRC:
+    - 300
+    - 250
+    - 200
+    Bandwidth: 2 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC:
+    - 125
+    - 120
+    - 110
+    NRC:
+    - 300
+    - 250
+    - 200
+    Bandwidth: 4 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC:
+    - 130
+    - 125
+    - 115
+    NRC:
+    - 300
+    - 250
+    - 200
+    Bandwidth: 5 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC:
+    - 135
+    - 130
+    - 120
+    NRC:
+    - 300
+    - 250
+    - 200
+    Bandwidth: 6 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC:
+    - 135
+    - 130
+    - 120
+    NRC:
+    - 300
+    - 250
+    - 200
+    Bandwidth: 8 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC:
+    - 145
+    - 135
+    - 125
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 10 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC:
+    - 150
+    - 145
+    - 135
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 20 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC:
+    - 155
+    - 150
+    - 140
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 30 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC:
+    - 160
+    - 155
+    - 145
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 40 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC:
+    - 175
+    - 165
+    - 155
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 50 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC:
+    - 200
+    - 190
+    - 180
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 100 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC:
+    - 250
+    - 240
+    - 230
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 200 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC:
+    - 275
+    - 265
+    - 255
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 300 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC:
+    - 370
+    - 360
+    - 350
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 400 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC:
+    - 390
+    - 380
+    - 370
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 500 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  - MRC:
+    - 400
+    - 390
+    - 380
+    NRC:
+    - 550
+    - 500
+    - 450
+    Bandwidth: 1000 Mbps
+    Code:
+      tag: FTTH
+      contents: 5
+  Medium: Fiber
+  Code:
+    tag: FTTH
+    contents: 5
+  ConnectionType: ETH
+  Provider: Orange
+  id: 6
+- Variants:
+  - MRC:
+    - 25
+    - 25
+    - 25
+    NRC:
+    - 150
+    - 150
+    - 150
+    Bandwidth: 1 Mbps
+    Code:
+      tag: SNRV
+  - MRC:
+    - 35
+    - 35
+    - 35
+    NRC:
+    - 150
+    - 150
+    - 150
+    Bandwidth: 2 Mbps
+    Code:
+      tag: SNRV
+  - MRC:
+    - 45
+    - 45
+    - 45
+    NRC:
+    - 150
+    - 150
+    - 150
+    Bandwidth: 3 Mbps
+    Code:
+      tag: SNRV
+  - MRC:
+    - 55
+    - 55
+    - 55
+    NRC:
+    - 150
+    - 150
+    - 150
+    Bandwidth: 4 Mbps
+    Code:
+      tag: SNRV
+  - MRC:
+    - 65
+    - 65
+    - 65
+    NRC:
+    - 150
+    - 150
+    - 150
+    Bandwidth: 5 Mbps
+    Code:
+      tag: SNRV
+  - MRC:
+    - 120
+    - 120
+    - 120
+    NRC:
+    - 150
+    - 150
+    - 150
+    Bandwidth: 10 Mbps
+    Code:
+      tag: SNRV
+  - MRC:
+    - 169
+    - 169
+    - 169
+    NRC:
+    - 150
+    - 150
+    - 150
+    Bandwidth: 20 Mbps
+    Code:
+      tag: SNRV
+  Medium: Radio
+  Code:
+    tag: SNRV
+  ConnectionType: ETH
+  Provider: SNR
+  id: 7
+- Variants:
+  - MRC:
+    - 105
+    - 103
+    - 100
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 2 Mbps
+    Code:
+      tag: OrangeR
+  - MRC:
+    - 105
+    - 103
+    - 100
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 4 Mbps
+    Code:
+      tag: OrangeR
+  - MRC:
+    - 105
+    - 103
+    - 100
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 6 Mbps
+    Code:
+      tag: OrangeR
+  - MRC:
+    - 120
+    - 110
+    - 105
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 10 Mbps
+    Code:
+      tag: OrangeR
+  - MRC:
+    - 145
+    - 135
+    - 125
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 20 Mbps
+    Code:
+      tag: OrangeR
+  - MRC:
+    - 175
+    - 160
+    - 150
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 30 Mbps
+    Code:
+      tag: OrangeR
+  - MRC:
+    - 175
+    - 160
+    - 150
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 40 Mbps
+    Code:
+      tag: OrangeR
+  - MRC:
+    - 195
+    - 180
+    - 170
+    NRC:
+    - 450
+    - 400
+    - 350
+    Bandwidth: 50 Mbps
+    Code:
+      tag: OrangeR
+  - MRC:
+    - 330
+    - 315
+    - 280
+    NRC:
+    - 450
+    - 400
+    - 350
+    Bandwidth: 100 Mbps
+    Code:
+      tag: OrangeR
+  - MRC:
+    - 590
+    - 520
+    - 490
+    NRC:
+    - 600
+    - 550
+    - 500
+    Bandwidth: 200 Mbps
+    Code:
+      tag: OrangeR
+  - MRC:
+    - 600
+    - 550
+    - 500
+    NRC:
+    - 600
+    - 550
+    - 500
+    Bandwidth: 300 Mbps
+    Code:
+      tag: OrangeR
+  - MRC:
+    - 656
+    - 602
+    - 580
+    NRC:
+    - 700
+    - 600
+    - 500
+    Bandwidth: 400 Mbps
+    Code:
+      tag: OrangeR
+  - MRC:
+    - 750
+    - 700
+    - 650
+    NRC:
+    - 750
+    - 675
+    - 625
+    Bandwidth: 500 Mbps
+    Code:
+      tag: OrangeR
+  Medium: Radio
+  Code:
+    tag: OrangeR
+  ConnectionType: ETH
+  Provider: Orange
+  id: 8
+- Variants:
+  - MRC:
+    - 55
+    - 50
+    - 50
+    NRC:
+    - 200
+    - 200
+    - 150
+    Bandwidth: 4 Mbps
+    Code:
+      tag: VSAT
+  - MRC:
+    - 60
+    - 55
+    - 55
+    NRC:
+    - 200
+    - 200
+    - 150
+    Bandwidth: 10 Mbps
+    Code:
+      tag: VSAT
+  - MRC:
+    - 90
+    - 85
+    - 75
+    NRC:
+    - 300
+    - 250
+    - 200
+    Bandwidth: 20 Mbps
+    Code:
+      tag: VSAT
+  - MRC:
+    - 120
+    - 110
+    - 110
+    NRC:
+    - 450
+    - 400
+    - 350
+    Bandwidth: 50 Mbps
+    Code:
+      tag: VSAT
+  - MRC:
+    - 140
+    - 130
+    - 130
+    NRC:
+    - 650
+    - 575
+    - 400
+    Bandwidth: 100 Mbps
+    Code:
+      tag: VSAT
+  - MRC:
+    - 270
+    - 260
+    - 250
+    NRC:
+    - 750
+    - 700
+    - 550
+    Bandwidth: 200 Mbps
+    Code:
+      tag: VSAT
+  Medium: Radio
+  Code:
+    tag: VSAT
+  ConnectionType: IA
+  Provider: Media Sat
+  id: 9
+- Variants:
+  - MRC:
+    - 10
+    - 10
+    - 10
+    NRC:
+    - 0
+    - 0
+    - 0
+    Bandwidth: 10GB total traffic
+    Code:
+      tag: OrangeG
+  Medium: 4G
+  Code:
+    tag: OrangeG
+  ConnectionType: 4G SIM
+  Provider: Orange
+  id: 10
+- Variants:
+  - MRC:
+    - 100
+    - 100
+    - 100
+    NRC:
+    - 250
+    - 250
+    - 250
+    Bandwidth: 1xFO
+    Code:
+      tag: SYN
+  - MRC:
+    - 100
+    - 100
+    - 100
+    NRC:
+    - 250
+    - 250
+    - 250
+    Bandwidth: 1xFO
+    Code:
+      tag: SYN
+  Medium: Fiber
+  Code:
+    tag: SYN
+  ConnectionType: Dark-fiber
+  Provider: Synapser
+  id: 11
+- Variants:
+  - MRC:
+    - 250
+    - 240
+    - 230
+    NRC:
+    - 450
+    - 400
+    - 350
+    Bandwidth: 1000 Mbps
+    Code:
+      tag: InterSat
+  - MRC:
+    - 130
+    - 120
+    - 110
+    NRC:
+    - 300
+    - 300
+    - 300
+    Bandwidth: 300 Mbps
+    Code:
+      tag: InterSat
+  - MRC:
+    - 120
+    - 110
+    - 100
+    NRC:
+    - 200
+    - 200
+    - 200
+    Bandwidth: 100 Mbps
+    Code:
+      tag: InterSat
+  - MRC:
+    - 90
+    - 80
+    - 75
+    NRC:
+    - 200
+    - 200
+    - 200
+    Bandwidth: 50 Mbps
+    Code:
+      tag: InterSat
+  - MRC:
+    - 65
+    - 55
+    - 55
+    NRC:
+    - 150
+    - 150
+    - 150
+    Bandwidth: 10 Mbps
+    Code:
+      tag: InterSat
+  - MRC:
+    - 45
+    - 45
+    - 45
+    NRC:
+    - 100
+    - 100
+    - 100
+    Bandwidth: 5 Mbps
+    Code:
+      tag: InterSat
+  - MRC:
+    - 35
+    - 35
+    - 35
+    NRC:
+    - 100
+    - 100
+    - 100
+    Bandwidth: 2 Mbps
+    Code:
+      tag: InterSat
+  - MRC:
+    - 30
+    - 30
+    - 30
+    NRC:
+    - 100
+    - 100
+    - 100
+    Bandwidth: 1 Mbps
+    Code:
+      tag: InterSat
+  Medium: Fiber
+  Code:
+    tag: InterSat
+  ConnectionType: ETH
+  Provider: InterSat
+  id: 12
+- Variants:
+  - MRC:
+    - 200
+    - 190
+    - 170
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 2xFO
+    Code:
+      tag: ORCDARK
+  Medium: Fiber
+  Code:
+    tag: ORCDARK
+  ConnectionType: Dark-fiber
+  Provider: Orange
+  id: 13
+- Variants:
+  - MRC:
+    - 145
+    - 135
+    - 125
+    NRC:
+    - 300
+    - 250
+    - 200
+    Bandwidth: 2 Mbps
+    Code:
+      tag: TKH
+      contents: 4
+  - MRC:
+    - 170
+    - 160
+    - 150
+    NRC:
+    - 300
+    - 250
+    - 200
+    Bandwidth: 4 Mbps
+    Code:
+      tag: TKH
+      contents: 4
+  - MRC:
+    - 170
+    - 160
+    - 150
+    NRC:
+    - 300
+    - 250
+    - 200
+    Bandwidth: 5 Mbps
+    Code:
+      tag: TKH
+      contents: 4
+  - MRC:
+    - 200
+    - 190
+    - 180
+    NRC:
+    - 300
+    - 250
+    - 200
+    Bandwidth: 6 Mbps
+    Code:
+      tag: TKH
+      contents: 4
+  - MRC:
+    - 200
+    - 190
+    - 180
+    NRC:
+    - 300
+    - 250
+    - 200
+    Bandwidth: 8 Mbps
+    Code:
+      tag: TKH
+      contents: 4
+  - MRC:
+    - 210
+    - 200
+    - 190
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 10 Mbps
+    Code:
+      tag: TKH
+      contents: 4
+  - MRC:
+    - 225
+    - 215
+    - 205
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 20 Mbps
+    Code:
+      tag: TKH
+      contents: 4
+  - MRC:
+    - 235
+    - 225
+    - 215
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 30 Mbps
+    Code:
+      tag: TKH
+      contents: 4
+  - MRC:
+    - 250
+    - 240
+    - 230
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 40 Mbps
+    Code:
+      tag: TKH
+      contents: 4
+  - MRC:
+    - 275
+    - 265
+    - 255
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 50 Mbps
+    Code:
+      tag: TKH
+      contents: 4
+  - MRC:
+    - 335
+    - 325
+    - 315
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 100 Mbps
+    Code:
+      tag: TKH
+      contents: 4
+  Medium: Fiber
+  Code:
+    tag: TKH
+    contents: 4
+  ConnectionType: ETH
+  Provider: TELEKOM
+  id: 14
+  # aici trebuie -> Orange
+- Variants:
+  - MRC:
+    - 170
+    - 160
+    - 150
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 5 Mbps
+    Code:
+      tag: OrangeL
+  - MRC:
+    - 190
+    - 180
+    - 170
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 10 Mbps
+    Code:
+      tag: OrangeL
+  - MRC:
+    - 250
+    - 220
+    - 180
+    NRC:
+    - 400
+    - 350
+    - 300
+    Bandwidth: 50 Mbps
+    Code:
+      tag: OrangeL
+  - MRC:
+    - 320
+    - 240
+    - 270
+    NRC:
+    - 450
+    - 400
+    - 350
+    Bandwidth: 100 Mbps
+    Code:
+      tag: OrangeL
+  - MRC:
+    - 870
+    - 645
+    - 540
+    NRC:
+    - 600
+    - 500
+    - 400
+    Bandwidth: 1000 Mbps
+    Code:
+      tag: OrangeL
+  - MRC:
+    - 320
+    - 240
+    - 270
+    NRC:
+    - 450
+    - 400
+    - 350
+    Bandwidth: 100 Mbps
+    Code:
+      tag: OrangeL
+  - MRC:
+    - 870
+    - 645
+    - 540
+    NRC:
+    - 600
+    - 500
+    - 400
+    Bandwidth: 1000 Mbps
+    Code:
+      tag: OrangeL
+  Medium: Fiber
+  Code:
+    tag: OrangeL
+  ConnectionType: EPL
+  Provider: Orange
+  id: 15
+- Variants:
+  - MRC:
+    - 70
+    - 70
+    - 65
+    NRC:
+    - 250
+    - 250
+    - 50
+    Bandwidth: 100 Mbps
+    Code:
+      tag: ILNKH
+  - MRC:
+    - 60
+    - 60
+    - 55
+    NRC:
+    - 150
+    - 150
+    - 50
+    Bandwidth: 10 Mbps
+    Code:
+      tag: ILNKH
+  - MRC:
+    - 50
+    - 50
+    - 45
+    NRC:
+    - 100
+    - 100
+    - 50
+    Bandwidth: 5 Mbps
+    Code:
+      tag: ILNKH
+  - MRC:
+    - 45
+    - 45
+    - 35
+    NRC:
+    - 100
+    - 100
+    - 50
+    Bandwidth: 4 Mbps
+    Code:
+      tag: ILNKH
+  - MRC:
+    - 35
+    - 35
+    - 30
+    NRC:
+    - 100
+    - 100
+    - 50
+    Bandwidth: 2 Mbps
+    Code:
+      tag: ILNKH
+  - MRC:
+    - 30
+    - 30
+    - 25
+    NRC:
+    - 100
+    - 100
+    - 50
+    Bandwidth: 1 Mbps
+    Code:
+      tag: ILNKH
+  Medium: Fiber/Radio
+  Code:
+    tag: ILNKH
+  ConnectionType: ETH
+  Provider: Interlink Banat
+  id: 16
+- Variants:
+  - MRC:
+    - 400
+    - 350
+    - 350
+    NRC:
+    - 450
+    - 400
+    - 350
+    Bandwidth: 1xFO
+    Code:
+      tag: MDT
+  Medium: Fiber
+  Code:
+    tag: MDT
+  ConnectionType: Dark-fiber
+  Provider: MD Trust
+  id: 17
+- Variants:
+  - MRC:
+    - 50
+    - 45
+    - 40
+    NRC:
+    - 150
+    - 100
+    - 100
+    Bandwidth: 10 Mbsp
+    Code:
+      tag: QNES
+  - MRC:
+    - 60
+    - 55
+    - 50
+    NRC:
+    - 150
+    - 100
+    - 100
+    Bandwidth: 20 Mbps
+    Code:
+      tag: QNES
+  - MRC:
+    - 65
+    - 60
+    - 55
+    NRC:
+    - 150
+    - 100
+    - 100
+    Bandwidth: 50 Mbps
+    Code:
+      tag: QNES
+  - MRC:
+    - 80
+    - 75
+    - 70
+    NRC:
+    - 200
+    - 150
+    - 150
+    Bandwidth: 100 Mbps
+    Code:
+      tag: QNES
+  - MRC:
+    - 165
+    - 165
+    - 155
+    NRC:
+    - 200
+    - 150
+    - 150
+    Bandwidth: 150 Mbps
+    Code:
+      tag: QNES
+  - MRC:
+    - 400
+    - 395
+    - 385
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 500 Mbps
+    Code:
+      tag: QNES
+  - MRC:
+    - 480
+    - 475
+    - 465
+    NRC:
+    - 350
+    - 300
+    - 250
+    Bandwidth: 1000 Mbps
+    Code:
+      tag: QNES
+  Medium: Fiber
+  Code:
+    tag: QNES
+  ConnectionType: ETH
+  Provider: Quick Net (Euro Strada)
+  id: 18
+- Variants:
+  - MRC:
+    - 30
+    - 30
+    - 25
+    NRC:
+    - 100
+    - 100
+    - 100
+    Bandwidth: 1 Mbsp
+    Code:
+      tag: IB
+  - MRC:
+    - 35
+    - 35
+    - 25
+    NRC:
+    - 100
+    - 100
+    - 100
+    Bandwidth: 2 Mbsp
+    Code:
+      tag: IB
+  - MRC:
+    - 45
+    - 45
+    - 35
+    NRC:
+    - 100
+    - 100
+    - 100
+    Bandwidth: 4 Mbsp
+    Code:
+      tag: IB
+  - MRC:
+    - 50
+    - 50
+    - 45
+    NRC:
+    - 100
+    - 100
+    - 100
+    Bandwidth: 5 Mbsp
+    Code:
+      tag: IB
+  - MRC:
+    - 85
+    - 85
+    - 70
+    NRC:
+    - 150
+    - 150
+    - 100
+    Bandwidth: 10 Mbsp
+    Code:
+      tag: IB
+  - MRC:
+    - 95
+    - 95
+    - 90
+    NRC:
+    - 150
+    - 150
+    - 100
+    Bandwidth: 20 Mbsp
+    Code:
+      tag: IB
+  - MRC:
+    - 100
+    - 100
+    - 95
+    NRC:
+    - 150
+    - 150
+    - 100
+    Bandwidth: 30 Mbsp
+    Code:
+      tag: IB
+  - MRC:
+    - 115
+    - 115
+    - 110
+    NRC:
+    - 250
+    - 250
+    - 200
+    Bandwidth: 50 Mbsp
+    Code:
+      tag: IB
+  - MRC:
+    - 125
+    - 125
+    - 115
+    NRC:
+    - 250
+    - 250
+    - 200
+    Bandwidth: 100 Mbsp
+    Code:
+      tag: IB
+  - MRC:
+    - 140
+    - 140
+    - 125
+    NRC:
+    - 250
+    - 250
+    - 200
+    Bandwidth: 200 Mbsp
+    Code:
+      tag: IB
+  - MRC:
+    - 165
+    - 165
+    - 155
+    NRC:
+    - 300
+    - 300
+    - 200
+    Bandwidth: 300 Mbsp
+    Code:
+      tag: IB
+  - MRC:
+    - 180
+    - 180
+    - 175
+    NRC:
+    - 300
+    - 300
+    - 250
+    Bandwidth: 400 Mbsp
+    Code:
+      tag: IB
+  - MRC:
+    - 200
+    - 200
+    - 190
+    NRC:
+    - 350
+    - 350
+    - 250
+    Bandwidth: 500 Mbps
+    Code:
+      tag: IB
+  - MRC:
+    - 150
+    - 140
+    - 125
+    NRC:
+    - 250
+    - 250
+    - 250
+    Bandwidth: 1FO
+    Code:
+      tag: IB
+  Medium: Fiber
+  Code:
+    tag: IB
+  ConnectionType: ETH
+  Provider: Internet Broker
+  id: 19
+- Variants:
+  - MRC:
+    - 25
+    - 25
+    - 25
+    NRC:
+    - 100
+    - 100
+    - 100
+    Bandwidth: 1 Mbps
+    Code:
+      tag: IOLTH
+  - MRC:
+    - 30
+    - 30
+    - 25
+    NRC:
+    - 100
+    - 100
+    - 100
+    Bandwidth: 2 Mbps
+    Code:
+      tag: IOLTH
+  - MRC:
+    - 40
+    - 40
+    - 35
+    NRC:
+    - 100
+    - 100
+    - 100
+    Bandwidth: 4 Mbps
+    Code:
+      tag: IOLTH
+  - MRC:
+    - 45
+    - 45
+    - 40
+    NRC:
+    - 100
+    - 100
+    - 100
+    Bandwidth: 5 Mbps
+    Code:
+      tag: IOLTH
+  - MRC:
+    - 65
+    - 65
+    - 55
+    NRC:
+    - 150
+    - 100
+    - 100
+    Bandwidth: 10 Mbps
+    Code:
+      tag: IOLTH
+  - MRC:
+    - 85
+    - 85
+    - 75
+    NRC:
+    - 150
+    - 100
+    - 100
+    Bandwidth: 20 Mbps
+    Code:
+      tag: IOLTH
+  - MRC:
+    - 95
+    - 95
+    - 85
+    NRC:
+    - 150
+    - 100
+    - 100
+    Bandwidth: 30 Mbps
+    Code:
+      tag: IOLTH
+  - MRC:
+    - 120
+    - 120
+    - 110
+    NRC:
+    - 250
+    - 200
+    - 100
+    Bandwidth: 50 Mbps
+    Code:
+      tag: IOLTH
+  - MRC:
+    - 125
+    - 125
+    - 115
+    NRC:
+    - 250
+    - 200
+    - 100
+    Bandwidth: 100 Mbps
+    Code:
+      tag: IOLTH
+  - MRC:
+    - 145
+    - 145
+    - 135
+    NRC:
+    - 250
+    - 200
+    - 100
+    Bandwidth: 200 Mbps
+    Code:
+      tag: IOLTH
+  - MRC:
+    - 155
+    - 155
+    - 145
+    NRC:
+    - 300
+    - 300
+    - 250
+    Bandwidth: 300 Mbps
+    Code:
+      tag: IOLTH
+  - MRC:
+    - 190
+    - 190
+    - 180
+    NRC:
+    - 300
+    - 300
+    - 250
+    Bandwidth: 400 Mbps
+    Code:
+      tag: IOLTH
+  - MRC:
+    - 220
+    - 220
+    - 200
+    NRC:
+    - 350
+    - 350
+    - 250
+    Bandwidth: 500 Mbps
+    Code:
+      tag: IOLTH
+  Medium: Fiber
+  Code:
+    tag: IOLTH
+  ConnectionType: ETH
+  Provider: Internet Oltenia
+  id: 20
+
+
+# // OLD FILES
+- Variants:
+  - MRC: 335
+    NRC: 350.0
+    Bandwidth: 100 Mbps
+    Code:
+      tag: TKH
+      contents: 5
+  - MRC: 275
+    NRC: 350.0
+    Bandwidth: 50 Mbps
+    Code:
+      tag: TKHIOLTH
+      contents: 5
+  - MRC: 225
+    NRC: 350.0
+    Bandwidth: 20 Mbps
+    Code:
+      tag: TKH
+      contents: 5
+  - MRC: 210.0
+    NRC: 350.0
+    Bandwidth: 10 Mbps
+    Code:
+      tag: TKH
+      contents: 5
+  - MRC: 170.0
+    NRC: 300.0
+    Bandwidth: 5 Mbps
+    Code:
+      tag: TKH
+      contents: 5
+  - MRC: 145
+    NRC: 300.0
+    Bandwidth: 2 Mbps
+    Code:
+      tag: TKH
+      contents: 5
+  Medium: Fiber
+  Code:
+    tag: TKH
+    contents: 5
+  ConnectionType: ETH
+  Provider: TELEKOM
+  id: 21
+- Variants:
+  - MRC: 450.0
+    NRC: 550.0
+    Bandwidth: 1000 Mbps
+    Code:
+      tag: TKL
+      contents: 2
+  - MRC: 350.0
+    NRC: 350.0
+    Bandwidth: 500 Mbps
+    Code:
+      tag: TKL
+      contents: 2
+  - MRC: 210.0
+    NRC: 350.0
+    Bandwidth: 100 Mbps
+    Code:
+      tag: TKL
+      contents: 2
+  - MRC: 200.0
+    NRC: 350.0
+    Bandwidth: 50 Mbps
+    Code:
+      tag: TKL
+      contents: 2
+  - MRC: 175
+    NRC: 350.0
+    Bandwidth: 20 Mbps
+    Code:
+      tag: TKL
+      contents: 2
+  - MRC: 160.0
+    NRC: 350.0
+    Bandwidth: 10 Mbps
+    Code:
+      tag: TKL
+      contents: 2
+  - MRC: 140.0
+    NRC: 300.0
+    Bandwidth: 5 Mbps
+    Code:
+      tag: TKL
+      contents: 2
+  - MRC: 110.0
+    NRC: 300.0
+    Bandwidth: 2 Mbps
+    Code:
+      tag: TKL
+      contents: 2
+  Medium: Fiber
+  Code:
+    tag: TKL
+    contents: 2
+  ConnectionType: EPL
+  Provider: TELEKOM
+  id: 22
+- Variants:
+  - MRC: 335
+    NRC: 350.0
+    Bandwidth: 100 Mbps
+    Code:
+      tag: TKH
+      contents: 4
+  - MRC: 275
+    NRC: 350.0
+    Bandwidth: 50 Mbps
+    Code:
+      tag: TKH
+      contents: 4
+  - MRC: 225
+    NRC: 350.0
+    Bandwidth: 20 Mbps
+    Code:
+      tag: TKH
+      contents: 4
+  - MRC: 210.0
+    NRC: 350.0
+    Bandwidth: 10 Mbps
+    Code:
+      tag: TKH
+      contents: 4
+  - MRC: 170.0
+    NRC: 300.0
+    Bandwidth: 5 Mbps
+    Code:
+      tag: TKH
+      contents: 4
+  - MRC: 145
+    NRC: 300.0
+    Bandwidth: 2 Mbps
+    Code:
+      tag: TKH
+      contents: 4
+  Medium: Fiber
+  Code:
+    tag: TKH
+    contents: 4
+  ConnectionType: ETH
+  Provider: TELEKOM
+  id: 23
+- Variants:
+  - MRC: 650.0
+    NRC: 550.0
+    Bandwidth: 1000 Mbps
+    Code:
+      tag: TKL
+      contents: 3
+  - MRC: 600.0
+    NRC: 350.0
+    Bandwidth: 500 Mbps
+    Code:
+      tag: TKL
+      contents: 3
+  - MRC: 300.0
+    NRC: 350.0
+    Bandwidth: 100 Mbps
+    Code:
+      tag: TKL
+      contents: 3
+  - MRC: 275
+    NRC: 350.0
+    Bandwidth: 50 Mbps
+    Code:
+      tag: TKL
+      contents: 3
+  - MRC: 225
+    NRC: 350.0
+    Bandwidth: 20 Mbps
+    Code:
+      tag: TKL
+      contents: 3
+  - MRC: 210.0
+    NRC: 350.0
+    Bandwidth: 10 Mbps
+    Code:
+      tag: TKL
+      contents: 3
+  - MRC: 170.0
+    NRC: 300.0
+    Bandwidth: 5 Mbps
+    Code:
+      tag: TKL
+      contents: 3
+  - MRC: 145
+    NRC: 300.0
+    Bandwidth: 2 Mbps
+    Code:
+      tag: TKL
+      contents: 3
+  Medium: Fiber
+  Code:
+    tag: TKL
+    contents: 3
+  ConnectionType: EPL
+  Provider: TELEKOM
+  id: 24
+- Variants:
+  - MRC: 450.0
+    NRC: 550.0
+    Bandwidth: 1000 Mbps
+    Code:
+      tag: TKL
+      contents: 1
+  - MRC: 350.0
+    NRC: 350.0
+    Bandwidth: 500 Mbps
+    Code:
+      tag: TKL
+      contents: 1
+  - MRC: 210.0
+    NRC: 350.0
+    Bandwidth: 100 Mbps
+    Code:
+      tag: TKL
+      contents: 1
+  - MRC: 200.0
+    NRC: 350.0
+    Bandwidth: 50 Mbps
+    Code:
+      tag: TKL
+      contents: 1
+  - MRC: 175
+    NRC: 350.0
+    Bandwidth: 20 Mbps
+    Code:
+      tag: TKL
+      contents: 1
+  - MRC: 160.0
+    NRC: 350.0
+    Bandwidth: 10 Mbps
+    Code:
+      tag: TKL
+      contents: 1
+  - MRC: 140.0
+    NRC: 300.0
+    Bandwidth: 5 Mbps
+    Code:
+      tag: TKL
+      contents: 1
+  - MRC: 110.0
+    NRC: 300.0
+    Bandwidth: 2 Mbps
+    Code:
+      tag: TKL
+      contents: 1
+  Medium: Fiber
+  Code:
+    tag: TKL
+    contents: 1
+  ConnectionType: EPL
+  Provider: TELEKOM
+  id: 25
+- Variants:
+  - MRC: 400.0
+    NRC: 550.0
+    Bandwidth: 1000 Mbps
+    Code:
+      tag: TKH
+      contents: 1
+  - MRC: 390.0
+    NRC: 350.0
+    Bandwidth: 500 Mbps
+    Code:
+      tag: TKH
+      contents: 1
+  - MRC: 200.0
+    NRC: 350.0
+    Bandwidth: 100 Mbps
+    Code:
+      tag: TKH
+      contents: 1
+  - MRC: 177
+    NRC: 350.0
+    Bandwidth: 50 Mbps
+    Code:
+      tag: TKH
+      contents: 1
+  - MRC: 150.0
+    NRC: 350.0
+    Bandwidth: 20 Mbps
+    Code:
+      tag: TKH
+      contents: 1
+  - MRC: 145
+    NRC: 350.0
+    Bandwidth: 10 Mbps
+    Code:
+      tag: TKH
+      contents: 1
+  - MRC: 130.0
+    NRC: 300.0
+    Bandwidth: 5 Mbps
+    Code:
+      tag: TKH
+      contents: 1
+  - MRC: 110.0
+    NRC: 300.0
+    Bandwidth: 2 Mbps
+    Code:
+      tag: TKH
+      contents: 1
+  Medium: Fiber
+  Code:
+    tag: TKH
+    contents: 1
+  ConnectionType: ETH
+  Provider: TELEKOM
+  id: 26
+- Variants:
+  - MRC: 600.0
+    NRC: 550.0
+    Bandwidth: 1000 Mbps
+    Code:
+      tag: TKH
+      contents: 3
+  - MRC: 520.0
+    NRC: 350.0
+    Bandwidth: 500 Mbps
+    Code:
+      tag: TKH
+      contents: 3
+  - MRC: 280.0
+    NRC: 350.0
+    Bandwidth: 100 Mbps
+    Code:
+      tag: TKH
+      contents: 3
+  - MRC: 235
+    NRC: 350.0
+    Bandwidth: 50 Mbps
+    Code:
+      tag: TKH
+      contents: 3
+  - MRC: 200.0
+    NRC: 350.0
+    Bandwidth: 20 Mbps
+    Code:
+      tag: TKH
+      contents: 3
+  - MRC: 195
+    NRC: 350.0
+    Bandwidth: 10 Mbps
+    Code:
+      tag: TKH
+      contents: 3
+  - MRC: 150.0
+    NRC: 300.0
+    Bandwidth: 5 Mbps
+    Code:
+      tag: TKH
+      contents: 3
+  - MRC: 130.0
+    NRC: 300.0
+    Bandwidth: 2 Mbps
+    Code:
+      tag: TKH
+      contents: 3
+  Medium: Fiber
+  Code:
+    tag: TKH
+    contents: 3
+  ConnectionType: ETH
+  Provider: TELEKOM
+  id: 27
+- Variants:
+  - MRC: 400.0
+    NRC: 550.0
+    Bandwidth: 1000 Mbps
+    Code:
+      tag: TKH
+      contents: 2
+  - MRC: 390.0
+    NRC: 350.0
+    Bandwidth: 500 Mbps
+    Code:
+      tag: TKH
+      contents: 2
+  - MRC: 200.0
+    NRC: 350.0
+    Bandwidth: 100 Mbps
+    Code:
+      tag: TKH
+      contents: 2
+  - MRC: 177
+    NRC: 350.0
+    Bandwidth: 50 Mbps
+    Code:
+      tag: TKH
+      contents: 2
+  - MRC: 150.0
+    NRC: 350.0
+    Bandwidth: 20 Mbps
+    Code:
+      tag: TKH
+      contents: 2
+  - MRC: 145
+    NRC: 350.0
+    Bandwidth: 10 Mbps
+    Code:
+      tag: TKH
+      contents: 2
+  - MRC: 130.0
+    NRC: 300.0
+    Bandwidth: 5 Mbps
+    Code:
+      tag: TKH
+      contents: 2
+  - MRC: 110.0
+    NRC: 300.0
+    Bandwidth: 2 Mbps
+    Code:
+      tag: TKH
+      contents: 2
+  Medium: Fiber
+  Code:
+    tag: TKH
+    contents: 2
+  ConnectionType: ETH
+  Provider: TELEKOM
+  id: 28
